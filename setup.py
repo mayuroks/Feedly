@@ -17,7 +17,6 @@ tests_require = [
 ]
 
 install_requires = [
-    'cqlengine==0.8.7',
     'redis>=2.8.0',
     'celery',
 ]
